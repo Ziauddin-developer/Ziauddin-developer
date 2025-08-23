@@ -14,7 +14,7 @@
 ✨ A passionate **BSCS Student** exploring the world of cross-platform mobile apps.  
 💡 Skilled in **Flutter, Firebase, REST APIs, and AI integrations**.  
 🎯 Goal: To build **AI-powered, scalable apps** that solve real-world problems.  
-📹 Sharing dev tips on Instagram → [@codewithzia](https://instagram.com/codewithzia)  
+📹 Sharing dev tips on Instagram → [@ziauddindeveloper](https://instagram.com/ziauddindeveloper)  
 
 ---
 
