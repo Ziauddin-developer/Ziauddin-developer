@@ -1,3 +1,4 @@
+![logo](https://github.com/Ziauddin-developer/Ziauddin-developer/blob/main/Banner.png)
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=Hi+👋,+I'm+Zia+Ud+Din&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </h1>
